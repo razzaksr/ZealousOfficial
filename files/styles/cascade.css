@@ -1,0 +1,14 @@
+#mbtn, #mdd{
+    color:#0c83c8;
+    background-color: white;
+    border-color: #0c83c8;
+    margin-right: 5px;
+}
+#mbtn:hover, #mdd:hover{
+    color:white;
+    background-color: #0c83c8;
+}
+#simg{
+    height: 100vh;
+    width: max-content;
+}
